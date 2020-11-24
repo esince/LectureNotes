@@ -1,6 +1,5 @@
 # LectureNotes
-Lecture notes that I took for online courses at my senior year:
-Courses: 
+Lecture notes that I took for online courses at my senior year
 
 	11645	BLG	411E	Software Engineering
 	11652	BLG	435E	Artificial Intelligence
